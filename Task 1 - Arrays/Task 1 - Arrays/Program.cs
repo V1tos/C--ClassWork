@@ -16,6 +16,11 @@ namespace Task_1___Arrays
         //самую длинную последовательность чисел, упорядоченную по
         //возрастанию.Вывести ее на экран.Если таких последовательностей
         //несколько (самых длинных с одинаковой длиной), то вывести их все.
+
+       
+
+
+
         static void Main(string[] args)
         {
 
@@ -43,6 +48,7 @@ namespace Task_1___Arrays
             int min, max;
             int minI=0, minJ=0;
             int maxI=0, maxJ=0;
+          
 
             max = matrix[0, 0];
             for (int i = 0; i < matrix.GetUpperBound(0) + 1; i++)
@@ -77,11 +83,33 @@ namespace Task_1___Arrays
 
             int sum=0;
 
+            int maxQueue = maxI * (matrix.GetUpperBound(0) + 1) + maxJ;
+            int minQueue = minI * (matrix.GetUpperBound(0) + 1) + minJ;
+
+            Console.WriteLine(minQueue);
+            Console.WriteLine(maxQueue);
+
+            if (maxQueue>minQueue)
+            {
+                for (int i = 0; i < matrix.GetUpperBound(0) + 1; i++)
+                {
+                    for (int j = 0; j < matrix.GetUpperBound(1) + 1; j++)
+                    {
+                        if (i >= minI && j>=minJ&&i<=maxI&&j<=maxJ)
+                        {
+                            sum += matrix[i, j];
+
+                        }
+
+                    }
+                }
+            }
+
             //for (int i = 0; i < matrix.GetUpperBound(0) + 1; i++)
             //{
             //    for (int j = 0; j < matrix.GetUpperBound(1) + 1; j++)
             //    {
-            //        if (i>=minI && matrix[i, j] <= max)
+            //        if (i >= minI && matrix[i, j] <= max)
             //        {
             //            sum += matrix[i, j];
 
@@ -90,7 +118,7 @@ namespace Task_1___Arrays
             //    }
             //}
 
-            Console.WriteLine("{0},{1}\n{2},{3}",minI, minJ,maxI,maxJ);
+            Console.WriteLine("Min[i] = {0},Min[j] = {1}\nMax[i] = {2},Max[j] = {3}",minI, minJ,maxI,maxJ);
             Console.WriteLine("Max: {0}\nMin: {1}\nSum: {2}", max, min,sum);
             
 
