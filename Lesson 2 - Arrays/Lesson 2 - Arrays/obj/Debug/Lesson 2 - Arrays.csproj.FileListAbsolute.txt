@@ -1,7 +1,0 @@
-D:\V1tos-C# (Class tasks)\Lesson 2 - Arrays\Lesson 2 - Arrays\bin\Debug\Lesson 2 - Arrays.exe.config
-D:\V1tos-C# (Class tasks)\Lesson 2 - Arrays\Lesson 2 - Arrays\bin\Debug\Lesson 2 - Arrays.exe
-D:\V1tos-C# (Class tasks)\Lesson 2 - Arrays\Lesson 2 - Arrays\bin\Debug\Lesson 2 - Arrays.pdb
-D:\V1tos-C# (Class tasks)\Lesson 2 - Arrays\Lesson 2 - Arrays\obj\Debug\Lesson 2 - Arrays.csprojAssemblyReference.cache
-D:\V1tos-C# (Class tasks)\Lesson 2 - Arrays\Lesson 2 - Arrays\obj\Debug\Lesson 2 - Arrays.csproj.CoreCompileInputs.cache
-D:\V1tos-C# (Class tasks)\Lesson 2 - Arrays\Lesson 2 - Arrays\obj\Debug\Lesson 2 - Arrays.exe
-D:\V1tos-C# (Class tasks)\Lesson 2 - Arrays\Lesson 2 - Arrays\obj\Debug\Lesson 2 - Arrays.pdb

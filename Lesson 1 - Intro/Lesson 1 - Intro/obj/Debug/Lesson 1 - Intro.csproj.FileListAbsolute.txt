@@ -1,7 +1,0 @@
-D:\V1tos-C# (Class tasks)\Lesson 1 - Intro\Lesson 1 - Intro\bin\Debug\Lesson 1 - Intro.exe.config
-D:\V1tos-C# (Class tasks)\Lesson 1 - Intro\Lesson 1 - Intro\bin\Debug\Lesson 1 - Intro.exe
-D:\V1tos-C# (Class tasks)\Lesson 1 - Intro\Lesson 1 - Intro\bin\Debug\Lesson 1 - Intro.pdb
-D:\V1tos-C# (Class tasks)\Lesson 1 - Intro\Lesson 1 - Intro\obj\Debug\Lesson 1 - Intro.csprojAssemblyReference.cache
-D:\V1tos-C# (Class tasks)\Lesson 1 - Intro\Lesson 1 - Intro\obj\Debug\Lesson 1 - Intro.csproj.CoreCompileInputs.cache
-D:\V1tos-C# (Class tasks)\Lesson 1 - Intro\Lesson 1 - Intro\obj\Debug\Lesson 1 - Intro.exe
-D:\V1tos-C# (Class tasks)\Lesson 1 - Intro\Lesson 1 - Intro\obj\Debug\Lesson 1 - Intro.pdb
