@@ -24,5 +24,17 @@ namespace Lesson_5___OOP_intro
                 name = value;
             }
         }
+
+        public void AddEmployees()
+        {
+            if (employees.Length>0)
+            {
+                for (int i = 0; i < employees.Length; i++)
+                {
+                    Console.WriteLine($"Employee N{i + 1}");
+                    employees[i].CreateEmployee();
+                }
+            }      
+        }
     }
 }

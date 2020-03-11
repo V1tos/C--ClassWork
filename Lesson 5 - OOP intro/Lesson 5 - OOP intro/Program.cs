@@ -10,10 +10,11 @@ namespace Lesson_5___OOP_intro
     {
         static void Main(string[] args)
         {
-            Factory factory=new Factory();
-            factory.Name = "AIG";
-            Console.WriteLine(factory.Name);
-            
+            Employee a = new Employee();
+            a.CreateEmployee();
+            a.CreateEmployee();
+
+            a.ShowEmployee();
         }
     }
 }

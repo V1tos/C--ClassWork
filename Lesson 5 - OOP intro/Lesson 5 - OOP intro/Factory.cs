@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 namespace Lesson_5___OOP_intro
 {
     //Class Factory, містить авто-властивість string Name, масив Departments[], масив Products[], метод string ReturnString();
-    class Factory
+   partial class Factory
     {
         string name;
         Department[] departments;
-        Product[] products;
+        
         public string Name
         {
             get
@@ -29,9 +29,9 @@ namespace Lesson_5___OOP_intro
             departments = new Department[size];
         }
 
-        public void CreateProduct(int size)
-        {
-            products = new Product[size];
-        }
+        partial void SetAvgSalary();
+        partial void SetTotalSalary();
+        partial void SetGDP();
+        partial void SetEmpCount();
     }
 }
