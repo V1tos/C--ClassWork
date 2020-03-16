@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task_2___Tansk_s_battle
+namespace Task_2___House
 {
     class Wall : IPart
     {
@@ -21,7 +21,7 @@ namespace Task_2___Tansk_s_battle
             Type = type;
         }
 
-        public void ShowWall()
+        public void ShowInfo()
         {
             Console.WriteLine($"Wall's width = {Width} cm\nWall's height = {Height} cm\nWall's type = {Type}");
         }

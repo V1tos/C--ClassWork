@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task_2___Tansk_s_battle
+namespace Task_2___House
 {
     class Roof : IPart
     {
@@ -20,7 +20,7 @@ namespace Task_2___Tansk_s_battle
             Type = type;
         }
 
-        public void ShowRoof()
+        public void ShowInfo()
         {
             Console.WriteLine($"Roof's width = {Width} cm\nRoof's height = {Height} cm\nRoof's type = {Type}");
         }

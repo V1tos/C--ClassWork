@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task_2___Tansk_s_battle
+namespace Task_2___House
 {
     class Door : IPart
     {
@@ -19,8 +19,8 @@ namespace Task_2___Tansk_s_battle
             Height = height;
             Type = type;
         }
-      
-        public void ShowDoor()
+
+        public void ShowInfo()
         {
             Console.WriteLine($"Door's width = {Width} cm\nDoor's height = {Height} cm\nDoor's type = {Type}");
         }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task_2___Tansk_s_battle
+namespace Task_2___House
 {
     class Window : IPart
     {
@@ -20,7 +20,7 @@ namespace Task_2___Tansk_s_battle
             Type = type;
         }
 
-        public void ShowDoor()
+        public void ShowInfo()
         {
             Console.WriteLine($"Window's width = {Width} cm\nWindow's height = {Height} cm\nWindow's type = {Type}");
         }

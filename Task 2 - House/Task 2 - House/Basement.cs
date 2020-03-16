@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task_2___Tansk_s_battle
+namespace Task_2___House
 {
     class Basement : IPart
     {
@@ -12,7 +12,7 @@ namespace Task_2___Tansk_s_battle
         public int Height { get; private set; }
         public string Type { get; private set; }
 
-        public Basement() {}
+        public Basement() { }
         public Basement(int width, int height, string type)
         {
             Width = width;
@@ -20,7 +20,7 @@ namespace Task_2___Tansk_s_battle
             Type = type;
         }
 
-        public void ShowBasement()
+        public void ShowInfo()
         {
             Console.WriteLine($"Basement's width = {Width} cm\nBasement's height = {Height} cm\nBasement's type = {Type}");
         }
