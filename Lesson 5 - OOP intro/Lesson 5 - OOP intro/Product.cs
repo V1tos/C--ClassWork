@@ -9,43 +9,18 @@ namespace Lesson_5___OOP_intro
     //Class Product містить авто-властивість string Name, авто-властивість int Size, авто-властивість double Price, метод string ReturnString()
     class Product
     {
-        string name;
-        int size;
-        double price;
+        public string Name { get; private set; }
+        public int Size { get; private set; }
+        public double Price { get; set; }
 
-        public string Name
+        public Product(string name, int size, double price)
         {
-            get
-            {
-                return name;
-            }
-            set
-            {
-                name = value;
-            }
+            Name = name;
+            Size = size;
+            Price = price;
         }
-        public int Size
-        {
-            get
-            {
-                return size;
-            }
-            set
-            {
-                size = value;
-            }
-        }
-        public double Price
-        {
-            get
-            {
-                return price;
-            }
-            set
-            {
-                price = value;
-            }
-        }
+
+
 
     }
 }
