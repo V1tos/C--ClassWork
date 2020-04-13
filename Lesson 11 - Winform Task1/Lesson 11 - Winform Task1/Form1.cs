@@ -21,15 +21,31 @@ namespace Lesson_11___Winform_Task1
         
         private void startBtn_Click(object sender, EventArgs e)
         {       
+
             Point point = timeLbl.Location;
             timer.Start();
-            if (point.X < ClientSize.Width - timeLbl.Width && point.Y < startBtn.Location.Y - timeLbl.Height - 20)
+            if (point.Y > startBtn.Location.Y - timeLbl.Height - 10)
+            {
+                point.Y = startBtn.Location.Y - timeLbl.Height - 10;
+            }
+            if (point.X<20 && point.Y != 26)
+            {
+                point.X = 10;
+            }
+            if (point.Y<20)
+            {
+                point.Y = 26;
+            }
+
+            if (point.X < ClientSize.Width - timeLbl.Width - 20 && point.Y < startBtn.Location.Y - timeLbl.Height - 10&&point.Y==26)
                 timeLbl.Location = new Point(point.X + 20, point.Y);
-            else if (point.X > ClientSize.Width - timeLbl.Width && point.Y < startBtn.Location.Y - timeLbl.Height - 20)
+            if (point.X > ClientSize.Width - timeLbl.Width - 20 && point.Y < startBtn.Location.Y - timeLbl.Height - 10)
                 timeLbl.Location = new Point(point.X, point.Y + 20);
-            else if (point.Y > startBtn.Location.Y - timeLbl.Height - 20)
+            else if (point.Y == startBtn.Location.Y - timeLbl.Height - 10&&point.X>20)
                 timeLbl.Location = new Point(point.X - 20, point.Y);
-            else if ()
+            else if(point.X==10)
+                timeLbl.Location = new Point(point.X, point.Y - 20);
+            else if (point.X == 10&& /*point.Y < startBtn.Location.Y - timeLbl.Height - 10&&*/point.Y!=26)
                 timeLbl.Location = new Point(point.X, point.Y - 20);
 
             timeLbl.Text = ++i + " sec";

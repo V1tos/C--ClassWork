@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8C006494-1E7F-453B-B37C-EF64E1DDB7BE}</ProjectGuid>
+    <ProjectGuid>{62021351-9C24-42D6-94FF-CC314A61CE5A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Lesson_13___Winforms_4</RootNamespace>
-    <AssemblyName>Lesson 13 - Winforms-4</AssemblyName>
+    <RootNamespace>Lesson_14___Game</RootNamespace>
+    <AssemblyName>Lesson 14 - Game</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
