@@ -172,7 +172,7 @@
             this.buttonDec.Tag = "";
             this.buttonDec.Text = ".";
             this.buttonDec.UseVisualStyleBackColor = true;
-            this.buttonDec.Click += new System.EventHandler(this.buttonDigit_Click);
+            this.buttonDec.Click += new System.EventHandler(this.buttonDec_Click);
             // 
             // buttonOpChange
             // 

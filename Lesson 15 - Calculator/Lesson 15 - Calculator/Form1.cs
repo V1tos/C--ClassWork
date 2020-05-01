@@ -25,8 +25,9 @@ namespace Lesson_15___Calculator
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            firstOperand = "0";
             textDisplay.Focus();
-            textDisplay.Text = "0";           
+            textDisplay.Text = firstOperand;           
         }
 
         private void buttonDigit_Click(object sender, EventArgs e)
@@ -34,17 +35,21 @@ namespace Lesson_15___Calculator
             Button currentDigit = sender as Button;
             if (isFirstOperand)
             {
+                if (firstOperand == "0")
+                    firstOperand = firstOperand.Remove(firstOperand.Length - 1);
+
                 firstOperand += currentDigit.Text;
                 textDisplay.Text = firstOperand;
                 return;
             }
 
-            if (secondOperand == "0"&&currentDigit!=buttonDec)
+            if (secondOperand == "0")
                 secondOperand = secondOperand.Remove(secondOperand.Length - 1);
 
             secondOperand += currentDigit.Text;
             textDisplay.Text = firstOperand + operaTor + Environment.NewLine + secondOperand;          
         }
+
 
         private void buttonOperator_Click(object sender, EventArgs e)
         {
@@ -69,28 +74,30 @@ namespace Lesson_15___Calculator
 
         private void buttonResult_Click(object sender, EventArgs e)
         {
-            if (!isFirstOperand)
-            {
-                result = ResultOperation(operaTor);
-                textDisplay.Text = firstOperand + " " + operaTor + " " + secondOperand + " = " + result.ToString();
-                firstOperand = result.ToString();
-                secondOperand = String.Empty;
-                isFirstOperand = true;
-            }           
+            if (isFirstOperand)
+                return;   
+            
+            result = ResultOperation(operaTor);
+            textDisplay.Text = firstOperand + " " + operaTor + " " + secondOperand + " = " + result.ToString();
+            firstOperand = result.ToString();
+            secondOperand = String.Empty;
+            isFirstOperand = true;
         }
 
         private double ResultOperation(string operaTor)
         {
+            double first = double.Parse(firstOperand);
+            double second = double.Parse(secondOperand);
             switch (operaTor)
             {
                 case "+":
-                    return double.Parse(firstOperand) + double.Parse(secondOperand);
+                    return first + second;
                 case "-":
-                    return double.Parse(firstOperand) - double.Parse(secondOperand);
+                    return first - second;
                 case "*":
-                    return double.Parse(firstOperand) * double.Parse(secondOperand);
+                    return first * second;
                 case "/":
-                    return double.Parse(firstOperand) / double.Parse(secondOperand);
+                    return first / second;
                 default:
                     return 0;
             }
@@ -113,8 +120,7 @@ namespace Lesson_15___Calculator
                     textDisplay.Text = "0";
                     return;
                 }
-                firstOperand = firstOperand.Remove(firstOperand.Length-1);
-                textDisplay.Text = firstOperand;           
+                firstOperand = firstOperand.Remove(firstOperand.Length-1);           
             }
             else
             {
@@ -131,9 +137,9 @@ namespace Lesson_15___Calculator
                     textDisplay.Text = firstOperand + operaTor + Environment.NewLine + secondOperand;
                     return;
                 }
-                secondOperand = secondOperand.Remove(secondOperand.Length - 1);
-                textDisplay.Text = firstOperand + operaTor + Environment.NewLine + secondOperand;
+                secondOperand = secondOperand.Remove(secondOperand.Length - 1);               
             }
+            textDisplay.Text = firstOperand + operaTor + Environment.NewLine + secondOperand;
         }
 
         private void buttonC_Click(object sender, EventArgs e)
@@ -224,13 +230,64 @@ namespace Lesson_15___Calculator
 
         private void buttonOpChange_Click(object sender, EventArgs e)
         {
+
             if (isFirstOperand)
-                return;
-            else if(operaTor == "+")
-                operaTor = "-";
-            else if (operaTor == "-")
-                operaTor = "+";
+            {
+                firstOperand = ChangeSign(firstOperand);
+            }
+            else
+            {
+                secondOperand = ChangeSign(secondOperand);
+            }
+
             textDisplay.Text = firstOperand + operaTor + Environment.NewLine + secondOperand;
+        }
+
+        private string ChangeSign(string operand)
+        {          
+         
+            double tmpOperand = double.Parse(operand);
+            operand = String.Empty;
+            if (tmpOperand > 0)
+            {
+                operand = $"-{tmpOperand.ToString()}";
+            }
+            else
+            {
+                tmpOperand = (-tmpOperand);
+                operand = tmpOperand.ToString();
+            }
+            return operand;
+        }
+
+        private void buttonDec_Click(object sender, EventArgs e)
+        {            
+            if (isFirstOperand)
+            {
+                if (IsDecimal(firstOperand))
+                    return;
+                
+                firstOperand += buttonDec.Text;
+                textDisplay.Text = firstOperand;
+                return;
+            }
+
+            if (IsDecimal(secondOperand))
+                return;
+
+            secondOperand += buttonDec.Text;
+            textDisplay.Text = firstOperand + operaTor + Environment.NewLine + secondOperand;
+        }
+
+        private bool IsDecimal(string operand)
+        {
+            bool dec = false;
+            foreach (char item in operand)
+            {
+                if (item == '.')
+                    dec = true;
+            }
+            return dec;
         }
     }
 }
