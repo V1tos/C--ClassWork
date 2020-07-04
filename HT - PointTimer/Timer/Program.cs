@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Timer
+namespace Point
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Timer
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Timer());
+            Application.Run(new Point());
         }
     }
 }
