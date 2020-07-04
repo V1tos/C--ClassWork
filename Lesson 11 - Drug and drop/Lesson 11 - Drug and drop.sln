@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 11 - Drug and drop", "Lesson 11 - Drug and drop\Lesson 11 - Drug and drop.csproj", "{3AB781C1-160A-48A8-BEB0-EE8325FB10DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB781C1-160A-48A8-BEB0-EE8325FB10DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB781C1-160A-48A8-BEB0-EE8325FB10DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB781C1-160A-48A8-BEB0-EE8325FB10DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB781C1-160A-48A8-BEB0-EE8325FB10DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEB74A03-0D55-40BB-AEF5-C2144E8273B0}
+	EndGlobalSection
+EndGlobal

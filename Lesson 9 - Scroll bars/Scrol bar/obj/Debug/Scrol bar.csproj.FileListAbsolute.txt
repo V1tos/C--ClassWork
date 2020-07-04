@@ -1,0 +1,10 @@
+D:\ШАГ\Програмування\C# Windows forms\Lesson 9 - Scroll bars\Scrol bar\bin\Debug\Scrol bar.exe.config
+D:\ШАГ\Програмування\C# Windows forms\Lesson 9 - Scroll bars\Scrol bar\bin\Debug\Scrol bar.exe
+D:\ШАГ\Програмування\C# Windows forms\Lesson 9 - Scroll bars\Scrol bar\bin\Debug\Scrol bar.pdb
+D:\ШАГ\Програмування\C# Windows forms\Lesson 9 - Scroll bars\Scrol bar\obj\Debug\Scrol bar.csprojAssemblyReference.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 9 - Scroll bars\Scrol bar\obj\Debug\Scrol_bar.Properties.Resources.resources
+D:\ШАГ\Програмування\C# Windows forms\Lesson 9 - Scroll bars\Scrol bar\obj\Debug\Scrol_bar.Scroll.resources
+D:\ШАГ\Програмування\C# Windows forms\Lesson 9 - Scroll bars\Scrol bar\obj\Debug\Scrol bar.csproj.GenerateResource.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 9 - Scroll bars\Scrol bar\obj\Debug\Scrol bar.csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 9 - Scroll bars\Scrol bar\obj\Debug\Scrol bar.exe
+D:\ШАГ\Програмування\C# Windows forms\Lesson 9 - Scroll bars\Scrol bar\obj\Debug\Scrol bar.pdb

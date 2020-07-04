@@ -1,0 +1,10 @@
+D:\ШАГ\Програмування\C# Windows forms\Lesson 2 - Radiobuttons\Lesson 2 - Radiobuttons\bin\Debug\Lesson 2 - Radiobuttons.exe.config
+D:\ШАГ\Програмування\C# Windows forms\Lesson 2 - Radiobuttons\Lesson 2 - Radiobuttons\bin\Debug\Lesson 2 - Radiobuttons.exe
+D:\ШАГ\Програмування\C# Windows forms\Lesson 2 - Radiobuttons\Lesson 2 - Radiobuttons\bin\Debug\Lesson 2 - Radiobuttons.pdb
+D:\ШАГ\Програмування\C# Windows forms\Lesson 2 - Radiobuttons\Lesson 2 - Radiobuttons\obj\Debug\Lesson_2___Radiobuttons.Form1.resources
+D:\ШАГ\Програмування\C# Windows forms\Lesson 2 - Radiobuttons\Lesson 2 - Radiobuttons\obj\Debug\Lesson_2___Radiobuttons.Properties.Resources.resources
+D:\ШАГ\Програмування\C# Windows forms\Lesson 2 - Radiobuttons\Lesson 2 - Radiobuttons\obj\Debug\Lesson 2 - Radiobuttons.csproj.GenerateResource.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 2 - Radiobuttons\Lesson 2 - Radiobuttons\obj\Debug\Lesson 2 - Radiobuttons.csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 2 - Radiobuttons\Lesson 2 - Radiobuttons\obj\Debug\Lesson 2 - Radiobuttons.exe
+D:\ШАГ\Програмування\C# Windows forms\Lesson 2 - Radiobuttons\Lesson 2 - Radiobuttons\obj\Debug\Lesson 2 - Radiobuttons.pdb
+D:\ШАГ\Програмування\C# Windows forms\Lesson 2 - Radiobuttons\Lesson 2 - Radiobuttons\obj\Debug\Lesson 2 - Radiobuttons.csprojAssemblyReference.cache

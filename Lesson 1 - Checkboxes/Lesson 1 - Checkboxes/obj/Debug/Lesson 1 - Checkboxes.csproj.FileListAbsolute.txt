@@ -1,0 +1,10 @@
+D:\ШАГ\Програмування\C# Windows forms\Lesson 1 - Checkboxes\Lesson 1 - Checkboxes\bin\Debug\Lesson 1 - Checkboxes.exe.config
+D:\ШАГ\Програмування\C# Windows forms\Lesson 1 - Checkboxes\Lesson 1 - Checkboxes\bin\Debug\Lesson 1 - Checkboxes.exe
+D:\ШАГ\Програмування\C# Windows forms\Lesson 1 - Checkboxes\Lesson 1 - Checkboxes\bin\Debug\Lesson 1 - Checkboxes.pdb
+D:\ШАГ\Програмування\C# Windows forms\Lesson 1 - Checkboxes\Lesson 1 - Checkboxes\obj\Debug\Lesson 1 - Checkboxes.csprojAssemblyReference.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 1 - Checkboxes\Lesson 1 - Checkboxes\obj\Debug\Lesson_1___Checkboxes.Form1.resources
+D:\ШАГ\Програмування\C# Windows forms\Lesson 1 - Checkboxes\Lesson 1 - Checkboxes\obj\Debug\Lesson_1___Checkboxes.Properties.Resources.resources
+D:\ШАГ\Програмування\C# Windows forms\Lesson 1 - Checkboxes\Lesson 1 - Checkboxes\obj\Debug\Lesson 1 - Checkboxes.csproj.GenerateResource.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 1 - Checkboxes\Lesson 1 - Checkboxes\obj\Debug\Lesson 1 - Checkboxes.csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 1 - Checkboxes\Lesson 1 - Checkboxes\obj\Debug\Lesson 1 - Checkboxes.exe
+D:\ШАГ\Програмування\C# Windows forms\Lesson 1 - Checkboxes\Lesson 1 - Checkboxes\obj\Debug\Lesson 1 - Checkboxes.pdb

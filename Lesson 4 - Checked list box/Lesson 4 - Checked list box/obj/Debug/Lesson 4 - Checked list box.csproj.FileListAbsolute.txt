@@ -1,0 +1,10 @@
+D:\ШАГ\Програмування\C# Windows forms\Lesson 4 - Checked list box\Lesson 4 - Checked list box\bin\Debug\Lesson 4 - Checked list box.exe.config
+D:\ШАГ\Програмування\C# Windows forms\Lesson 4 - Checked list box\Lesson 4 - Checked list box\bin\Debug\Lesson 4 - Checked list box.exe
+D:\ШАГ\Програмування\C# Windows forms\Lesson 4 - Checked list box\Lesson 4 - Checked list box\bin\Debug\Lesson 4 - Checked list box.pdb
+D:\ШАГ\Програмування\C# Windows forms\Lesson 4 - Checked list box\Lesson 4 - Checked list box\obj\Debug\Lesson 4 - Checked list box.csprojAssemblyReference.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 4 - Checked list box\Lesson 4 - Checked list box\obj\Debug\Lesson_4___Checked_list_box.Form1.resources
+D:\ШАГ\Програмування\C# Windows forms\Lesson 4 - Checked list box\Lesson 4 - Checked list box\obj\Debug\Lesson_4___Checked_list_box.Properties.Resources.resources
+D:\ШАГ\Програмування\C# Windows forms\Lesson 4 - Checked list box\Lesson 4 - Checked list box\obj\Debug\Lesson 4 - Checked list box.csproj.GenerateResource.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 4 - Checked list box\Lesson 4 - Checked list box\obj\Debug\Lesson 4 - Checked list box.csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 4 - Checked list box\Lesson 4 - Checked list box\obj\Debug\Lesson 4 - Checked list box.exe
+D:\ШАГ\Програмування\C# Windows forms\Lesson 4 - Checked list box\Lesson 4 - Checked list box\obj\Debug\Lesson 4 - Checked list box.pdb

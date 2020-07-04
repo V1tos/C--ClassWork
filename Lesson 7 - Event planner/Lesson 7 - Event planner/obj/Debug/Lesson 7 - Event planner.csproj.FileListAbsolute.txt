@@ -1,0 +1,10 @@
+D:\ШАГ\Програмування\C# Windows forms\Lesson 7 - Event planner\Lesson 7 - Event planner\bin\Debug\Lesson 7 - Event planner.exe.config
+D:\ШАГ\Програмування\C# Windows forms\Lesson 7 - Event planner\Lesson 7 - Event planner\bin\Debug\Lesson 7 - Event planner.exe
+D:\ШАГ\Програмування\C# Windows forms\Lesson 7 - Event planner\Lesson 7 - Event planner\bin\Debug\Lesson 7 - Event planner.pdb
+D:\ШАГ\Програмування\C# Windows forms\Lesson 7 - Event planner\Lesson 7 - Event planner\obj\Debug\Lesson 7 - Event planner.csprojAssemblyReference.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 7 - Event planner\Lesson 7 - Event planner\obj\Debug\Lesson_7___Event_planner.Properties.Resources.resources
+D:\ШАГ\Програмування\C# Windows forms\Lesson 7 - Event planner\Lesson 7 - Event planner\obj\Debug\Lesson 7 - Event planner.csproj.GenerateResource.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 7 - Event planner\Lesson 7 - Event planner\obj\Debug\Lesson 7 - Event planner.csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 7 - Event planner\Lesson 7 - Event planner\obj\Debug\Lesson 7 - Event planner.exe
+D:\ШАГ\Програмування\C# Windows forms\Lesson 7 - Event planner\Lesson 7 - Event planner\obj\Debug\Lesson 7 - Event planner.pdb
+D:\ШАГ\Програмування\C# Windows forms\Lesson 7 - Event planner\Lesson 7 - Event planner\obj\Debug\Lesson_7___Event_planner.EventPlanner.resources

@@ -1,0 +1,10 @@
+D:\ШАГ\Програмування\C# Windows forms\Lesson 5 - List box\Lesson 5 - List box\bin\Debug\Lesson 5 - List box.exe.config
+D:\ШАГ\Програмування\C# Windows forms\Lesson 5 - List box\Lesson 5 - List box\bin\Debug\Lesson 5 - List box.exe
+D:\ШАГ\Програмування\C# Windows forms\Lesson 5 - List box\Lesson 5 - List box\bin\Debug\Lesson 5 - List box.pdb
+D:\ШАГ\Програмування\C# Windows forms\Lesson 5 - List box\Lesson 5 - List box\obj\Debug\Lesson 5 - List box.csprojAssemblyReference.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 5 - List box\Lesson 5 - List box\obj\Debug\Lesson_5___List_box.Form1.resources
+D:\ШАГ\Програмування\C# Windows forms\Lesson 5 - List box\Lesson 5 - List box\obj\Debug\Lesson_5___List_box.Properties.Resources.resources
+D:\ШАГ\Програмування\C# Windows forms\Lesson 5 - List box\Lesson 5 - List box\obj\Debug\Lesson 5 - List box.csproj.GenerateResource.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 5 - List box\Lesson 5 - List box\obj\Debug\Lesson 5 - List box.csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 5 - List box\Lesson 5 - List box\obj\Debug\Lesson 5 - List box.exe
+D:\ШАГ\Програмування\C# Windows forms\Lesson 5 - List box\Lesson 5 - List box\obj\Debug\Lesson 5 - List box.pdb

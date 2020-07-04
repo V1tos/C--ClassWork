@@ -1,0 +1,10 @@
+D:\ШАГ\Програмування\C# Windows forms\Lesson 10 - Dialog\Lesson 10 - Dialog\bin\Debug\Lesson 10 - Dialog.exe.config
+D:\ШАГ\Програмування\C# Windows forms\Lesson 10 - Dialog\Lesson 10 - Dialog\bin\Debug\Lesson 10 - Dialog.exe
+D:\ШАГ\Програмування\C# Windows forms\Lesson 10 - Dialog\Lesson 10 - Dialog\bin\Debug\Lesson 10 - Dialog.pdb
+D:\ШАГ\Програмування\C# Windows forms\Lesson 10 - Dialog\Lesson 10 - Dialog\obj\Debug\Lesson 10 - Dialog.csprojAssemblyReference.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 10 - Dialog\Lesson 10 - Dialog\obj\Debug\Lesson_10___Dialog.Properties.Resources.resources
+D:\ШАГ\Програмування\C# Windows forms\Lesson 10 - Dialog\Lesson 10 - Dialog\obj\Debug\Lesson_10___Dialog.StdDialog.resources
+D:\ШАГ\Програмування\C# Windows forms\Lesson 10 - Dialog\Lesson 10 - Dialog\obj\Debug\Lesson 10 - Dialog.csproj.GenerateResource.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 10 - Dialog\Lesson 10 - Dialog\obj\Debug\Lesson 10 - Dialog.csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\C# Windows forms\Lesson 10 - Dialog\Lesson 10 - Dialog\obj\Debug\Lesson 10 - Dialog.exe
+D:\ШАГ\Програмування\C# Windows forms\Lesson 10 - Dialog\Lesson 10 - Dialog\obj\Debug\Lesson 10 - Dialog.pdb

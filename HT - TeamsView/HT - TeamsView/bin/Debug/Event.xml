@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfUnit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Unit>
+    <Name>Mage</Name>
+    <HealthPoint>4</HealthPoint>
+  </Unit>
+  <Unit>
+    <Name>Swordman</Name>
+    <HealthPoint>10</HealthPoint>
+  </Unit>
+  <Unit>
+    <Name>Archer</Name>
+    <HealthPoint>6</HealthPoint>
+  </Unit>
+</ArrayOfUnit>

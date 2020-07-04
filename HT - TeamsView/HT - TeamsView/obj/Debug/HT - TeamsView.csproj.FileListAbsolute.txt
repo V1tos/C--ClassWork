@@ -1,0 +1,10 @@
+D:\ШАГ\Програмування\C# Windows forms\HT - TeamsView\HT - TeamsView\bin\Debug\HT - TeamsView.exe.config
+D:\ШАГ\Програмування\C# Windows forms\HT - TeamsView\HT - TeamsView\bin\Debug\HT - TeamsView.exe
+D:\ШАГ\Програмування\C# Windows forms\HT - TeamsView\HT - TeamsView\bin\Debug\HT - TeamsView.pdb
+D:\ШАГ\Програмування\C# Windows forms\HT - TeamsView\HT - TeamsView\obj\Debug\HT - TeamsView.csprojAssemblyReference.cache
+D:\ШАГ\Програмування\C# Windows forms\HT - TeamsView\HT - TeamsView\obj\Debug\HT___TeamsView.Properties.Resources.resources
+D:\ШАГ\Програмування\C# Windows forms\HT - TeamsView\HT - TeamsView\obj\Debug\HT___TeamsView.Teams.resources
+D:\ШАГ\Програмування\C# Windows forms\HT - TeamsView\HT - TeamsView\obj\Debug\HT - TeamsView.csproj.GenerateResource.cache
+D:\ШАГ\Програмування\C# Windows forms\HT - TeamsView\HT - TeamsView\obj\Debug\HT - TeamsView.csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\C# Windows forms\HT - TeamsView\HT - TeamsView\obj\Debug\HT - TeamsView.exe
+D:\ШАГ\Програмування\C# Windows forms\HT - TeamsView\HT - TeamsView\obj\Debug\HT - TeamsView.pdb
