@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <answers>
+      <Answer>
+        <Text>Стів Джобс</Text>
+        <IsTrue>true</IsTrue>
+      </Answer>
+      <Answer>
+        <Text>Білл Гейтс</Text>
+        <IsTrue>false</IsTrue>
+      </Answer>
+      <Answer>
+        <Text>Дмитро Дубілет</Text>
+        <IsTrue>false</IsTrue>
+      </Answer>
+      <Answer>
+        <Text>Петро Порошенко</Text>
+        <IsTrue>false</IsTrue>
+      </Answer>
+    </answers>
+    <Text>Хто заснував компанію Apple?</Text>
+    <IsSelectedTrueAnswer>false</IsSelectedTrueAnswer>
+  </Question>
+  <Question>
+    <answers>
+      <Answer>
+        <Text>4</Text>
+        <IsTrue>true</IsTrue>
+      </Answer>
+      <Answer>
+        <Text>6</Text>
+        <IsTrue>false</IsTrue>
+      </Answer>
+      <Answer>
+        <Text>2</Text>
+        <IsTrue>false</IsTrue>
+      </Answer>
+      <Answer>
+        <Text>8</Text>
+        <IsTrue>false</IsTrue>
+      </Answer>
+    </answers>
+    <Text>Скільки байт вміщає ти даних &lt;int&gt;?</Text>
+    <IsSelectedTrueAnswer>false</IsSelectedTrueAnswer>
+  </Question>
+  <Question>
+    <answers>
+      <Answer>
+        <Text>Наслідування, Інкапсуляція, Поліморфізм</Text>
+        <IsTrue>true</IsTrue>
+      </Answer>
+      <Answer>
+        <Text>Абстракція, Інкапсуляція, Поліморфізм</Text>
+        <IsTrue>false</IsTrue>
+      </Answer>
+      <Answer>
+        <Text>Інкапсуляція, Багатопотоковість, Структурність</Text>
+        <IsTrue>false</IsTrue>
+      </Answer>
+      <Answer>
+        <Text>Багатопотоковість, Наслідування, Відкритість/Закритість</Text>
+        <IsTrue>false</IsTrue>
+      </Answer>
+    </answers>
+    <Text>Які є парадигми ООП?</Text>
+    <IsSelectedTrueAnswer>false</IsSelectedTrueAnswer>
+  </Question>
+  <Question>
+    <answers>
+      <Answer>
+        <Text>Роберт Мартін</Text>
+        <IsTrue>false</IsTrue>
+      </Answer>
+      <Answer>
+        <Text>Джеффрі Ріхтер</Text>
+        <IsTrue>false</IsTrue>
+      </Answer>
+      <Answer>
+        <Text>Бьойрн Страуструп</Text>
+        <IsTrue>true</IsTrue>
+      </Answer>
+      <Answer>
+        <Text>Степан Бандера</Text>
+        <IsTrue>false</IsTrue>
+      </Answer>
+    </answers>
+    <Text>Хто створив С++?</Text>
+    <IsSelectedTrueAnswer>false</IsSelectedTrueAnswer>
+  </Question>
+</ArrayOfQuestion>
